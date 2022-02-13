@@ -4,7 +4,8 @@
 
 > Hello React App frontend
 
-![Screenshot](front-end.png)
+![screenshot](https://user-images.githubusercontent.com/44624138/153741764-48f8092c-5ed2-447b-b657-a04dd712e572.png)
+
 
 ## Built With
 
